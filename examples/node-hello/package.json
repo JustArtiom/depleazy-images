@@ -1,0 +1,6 @@
+{
+  "name": "node-hello",
+  "private": true,
+  "type": "module",
+  "main": "index.js"
+}

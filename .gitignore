@@ -1,0 +1,6 @@
+# Built artifacts and anything zipped up for a quick test
+*.zip
+node_modules
+
+# macOS
+.DS_Store
